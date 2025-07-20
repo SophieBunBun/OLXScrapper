@@ -1,0 +1,10 @@
+baseLink="https://www.olx.pt/tecnologia-e-informatica/computadores-informatica/componentes-e-pecas/"
+globalFilter="f4hgf89h34189tuhjf2htgf780943hrtrf98ht3h8"
+searches=[["Intel Core i7 8700"],["16GB DDR4"],["NVIDIA GeForce GTX 1650 4GB"],["SSD 180GB"],["HDD 1TB"]]
+baseLoc="Olivais Lisboa Portugal"
+maxDist=100
+maxTrack=15
+output="dump"
+maxFiles=240
+interval=60
+
